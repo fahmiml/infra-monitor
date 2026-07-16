@@ -1,0 +1,25 @@
+# Logs
+*.log
+
+# Environment
+.env
+
+# Backup
+*.sql
+*.gz
+*.zip
+
+# Docker
+docker-data/
+
+# Laravel
+vendor/
+node_modules/
+bootstrap/cache/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
